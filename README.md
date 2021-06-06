@@ -50,9 +50,11 @@
 # Modelo dos dados no Json
 ```
     {
-        "title": "String",
-        "year": Number,
+        "title": "String",     
         "description": "String",
+        "year": Number,
+        "genre": "String",
+        "language": "String",
         "type": " String",
         "available_on": "String",
         "created_at": "Data"
