@@ -55,7 +55,6 @@
         "year": Number,
         "genre": "String",
         "language": "String",
-        "type": " String",
         "available_on": "String",
         "created_at": "Data"
     }
